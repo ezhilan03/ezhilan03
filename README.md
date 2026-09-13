@@ -20,6 +20,17 @@ My current project direction includes generative AI, AI automation and engagemen
 | [Fintech Hybrid RAG Engine](https://github.com/ezhilan03/fintech-rag) | Document ingestion, hybrid retrieval over PostgreSQL/pgvector and RAGAS evaluation. |
 | [Portfolio](https://ezhilan03.github.io/portfolio/) | Professional background and selected engineering work. |
 
+## Professional work at Pay with Spire
+
+Completed systems, with my contribution, architecture and outcomes explained:
+
+- [Merchant onboarding application](https://github.com/ezhilan03/portfolio/tree/main/docs/professional-work/merchant-onboarding) — partner-file validation, API integration and regression checks.
+- [Incremental Azure data platform](https://github.com/ezhilan03/portfolio/tree/main/docs/professional-work/adf-data-lake) — ADF ingestion, layered data and archival workflows.
+- [Settlement automation and billing controls](https://github.com/ezhilan03/portfolio/tree/main/docs/professional-work/settlement-automation) — domain architecture, financial controls and three-team delivery.
+- [Self-service analytics chatbot](https://github.com/ezhilan03/portfolio/tree/main/docs/professional-work/self-service-analytics) — warehouse-backed NL2SQL/BQML analytics.
+
+Case studies use generalized diagrams and synthetic examples; company code and data remain private.
+
 ## Tools I work with
 
 Python · SQL · Azure Data Factory · Airflow · PySpark · PostgreSQL · Azure · AWS · GCP · Docker
