@@ -18,6 +18,7 @@ My current project direction includes generative AI, AI automation and engagemen
 | --- | --- |
 | [Financial Reconciliation Engine](https://github.com/ezhilan03/recon-engine) | Released AWS batch: durable allocation, replay-safe ingestion and verified backup recovery; 500 synthetic transactions processed. |
 | [Fintech Hybrid RAG Engine](https://github.com/ezhilan03/fintech-rag) | Released AWS demo: versioned ingestion, hybrid retrieval, validated citations, 84 tests and verified outage recovery. |
+| [Fitness Data Platform](https://github.com/ezhilan03/fitness-data-platform) | Synthetic wearable data: point-in-time history, dbt checks, Airflow retries/backfills, daily summaries and on-demand AWS containers. |
 | [Portfolio](https://ezhilan03.github.io/portfolio/) | Professional background and selected engineering work. |
 
 ## Professional work at Pay with Spire
@@ -33,7 +34,7 @@ Case studies use generalized diagrams and synthetic examples; company code and d
 
 ## Tools I work with
 
-Python · SQL · Azure Data Factory · Airflow · PySpark · PostgreSQL · Azure · AWS · GCP · Docker · Terraform · GitHub Actions · CloudWatch
+Python · SQL · dbt · DuckDB · Azure Data Factory · Airflow · PySpark · PostgreSQL · Azure · AWS · GCP · Docker · Terraform · GitHub Actions · CloudWatch
 
 Applied AI: LangGraph · Google ADK · MCP · RAG · RAGAS
 
@@ -42,6 +43,6 @@ Applied AI: LangGraph · Google ADK · MCP · RAG · RAGAS
 
 ## Verified project releases
 
-[Recon case study](https://github.com/ezhilan03/portfolio/tree/main/docs/projects/recon-engine) · [RAG case study](https://github.com/ezhilan03/portfolio/tree/main/docs/projects/fintech-rag) · [RAG v0.2.0](https://github.com/ezhilan03/fintech-rag/releases/tag/v0.2.0)
+[Fitness demo](https://ezhilan03.github.io/fitness-data-platform/) · [Fitness code and evidence](https://github.com/ezhilan03/fitness-data-platform) · [Recon case study](https://github.com/ezhilan03/portfolio/tree/main/docs/projects/recon-engine) · [RAG case study](https://github.com/ezhilan03/portfolio/tree/main/docs/projects/fintech-rag) · [RAG v0.2.0](https://github.com/ezhilan03/fintech-rag/releases/tag/v0.2.0)
 
 These personal projects use synthetic data and on-demand AWS environments. Recovery and deployment results are documented; they are separate from my professional delivery experience.
